@@ -1,5 +1,1 @@
 ErrorDocument 404 /index.php
-<IfModule mod_rewrite.c>
-RewriteEngine on
-RewriteRule ^ping /ping.php
-</IfModule>
